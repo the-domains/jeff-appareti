@@ -1,0 +1,28 @@
+name: Jeff Appareti
+favicon: null
+layout_spectrum: 0.6726355869323015
+typography_spectrum: 0.9574658579658717
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.826642207801342
+  lightness: 0.2703516213223338
+  saturation: 0.15268584340810776
+  rhythmicContrast: 0.9868541171308607
+purpose: []
