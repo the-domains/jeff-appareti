@@ -1,7 +1,7 @@
 name: Jeff Appareti
 favicon: null
-layout_spectrum: 0.6726355869323015
-typography_spectrum: 0.9574658579658717
+layout_spectrum: 0.11155
+typography_spectrum: 1
 title: Jeff Appareti
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.826642207801342
+  brandStrength: 0.8125
   lightness: 0.2703516213223338
   saturation: 0.15268584340810776
   rhythmicContrast: 0.9868541171308607
